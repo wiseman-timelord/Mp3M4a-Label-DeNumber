@@ -2,7 +2,7 @@
 Status: Alpha (because very little development) but it worked.
 
 ### Description
-Its a batch that strips track numbering from the start of Mp3/Mp4 file labels, this results in Mp3/Mp4 files in specified directory then being able to be correctly ordered by filename, which would then logically be artist name. This is useful for example, if you compile individual songs from multiple albums into a special folder, logically the numbers would be of no meaning and create a iffy track order, as well as making things a little harder to read in situations such as mixing.
+Its a batch that strips track numbering from the start of Mp3/Mp4 file labels, this results in Mp3/Mp4 files in specified directory then being able to be correctly ordered by filename, which would then logically be artist name. This is useful for example, if you compile individual songs from multiple albums into a special folder, logically the numbers would be of no meaning and create a iffy track order, as well as making things a little harder to read in situations such as mixing. This would be useful, for example, if you have converted cds to mp3 for safe storage, and they were meta checked and labelled appropriately.
 
 ### Preview
 For example generally given the format of "## - ArtistName - TrackName.mp4/mp3" resulting in a label of "ArtistName - TrackName.mp4/mp3" instead, ie if put in a folder with the files...
